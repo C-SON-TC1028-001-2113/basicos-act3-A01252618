@@ -7,7 +7,7 @@ def main():
     mult = a*b 
     print ("Suma: "+str(suma))
     print ("Resta: "+str(resta))
-    print ("Multiplicación:" +str(mult))
+    print ("Multiplicación:"+str(mult))
 
 if __name__ == '__main__':
     main()
